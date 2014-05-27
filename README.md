@@ -1,4 +1,4 @@
-<img src="https://travis-ci.org/rcartwright/railsgirls.svg?branch=master">
+[![Build Status](https://travis-ci.org/rcartwright/railsgirls.svg?branch=master)](https://travis-ci.org/rcartwright/railsgirls)
 # README
 
 This project was listed as a tutorial on http://guides.railsgirls.com/.
