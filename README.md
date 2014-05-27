@@ -1,5 +1,4 @@
 <img src="https://travis-ci.org/rcartwright/railsgirls.svg?branch=master">
-
 # README
 
 This project was listed as a tutorial on http://guides.railsgirls.com/.
