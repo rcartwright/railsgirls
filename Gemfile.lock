@@ -128,8 +128,8 @@ DEPENDENCIES
   mini_magick (= 3.5.0)
   pg
   rails (= 4.0.2)
-	rake
   rails_12factor
+  rake
   sass-rails (~> 4.0.0)
   sdoc
   sqlite3
