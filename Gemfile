@@ -3,10 +3,6 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-group :test do
-  gem 'rake', '10.3.2'
-end
-
 
 # Use sqlite3 as the database for Active Record
 group :development do
@@ -17,6 +13,9 @@ group :production do
   gem 'rails_12factor'
 end
 
+group :test do
+  gem 'rake', '10.3.2'
+end
 
 gem 'carrierwave'
 gem 'mini_magick', '3.5.0'
